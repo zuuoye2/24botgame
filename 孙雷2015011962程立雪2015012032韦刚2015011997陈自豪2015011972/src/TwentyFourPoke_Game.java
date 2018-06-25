@@ -1,4 +1,4 @@
-package dddd;
+﻿package dddd;
 import java.awt.*;
 import javax.swing.*;
 import java.awt.event.*;
@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 * @Author 孙雷
 * @Title: TwentyFourbot_Game 
 * @Description: 实现24点游戏
-* @Date 2018年6月25日 下午4:30:04
+* @Date 2018年6月24日 下午4:30:04
  */
 public class  TwentyFourPoke_Game extends JFrame{
 	
